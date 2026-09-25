@@ -1,0 +1,8 @@
+{
+  "name": "RiskLens",
+  "description": "Interactive Monte Carlo risk of ruin and equity curve simulation tool for traders with live stats, percentiles, and drawdown analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
